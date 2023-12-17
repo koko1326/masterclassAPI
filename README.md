@@ -14,6 +14,9 @@
 
 4. **Integración de funcionalidades de Prime Video:** Daremos vida a tu API al incorporar características distintivas de Prime Video, como la gestión de usuarios, la búsqueda avanzada, y la creación de listas de reproducción personalizadas.
 
+### Importante : Variables de Entorno con acceso a la BBDD
+Para poder ejecutar la BBDD en mongo debe modificarse correctamente en el archivo de variables de entorno .env  la variable MONGODB_URI. Podéis crear una instancia gratuita en MongoDB Atlas.
+
 
 ### Requisitos previos
 
